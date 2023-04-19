@@ -1,10 +1,10 @@
-# Rust TODO List
+# Rust TODO List 📃
 This is a simple TODO list application written in Rust, designed to be run in the command line interface (CLI). It allows users to add new tasks, mark tasks as completed, and list all tasks in the current list.
 
-## Requirements
+## Requirements 
 In order to run this application, you will need to have Rust installed on your computer. You can download Rust here.
 
-## How to Use
+## How to Use 
 To use the TODO list application, simply clone the repository and navigate to the project directory in your terminal or command prompt. Then, run the following command:
 </br> <code>cargo run</code> </br>
 
